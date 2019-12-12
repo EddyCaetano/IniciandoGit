@@ -1,1 +1,3 @@
+Este é meu git master, alterei as informações
+vamos altear aqui e comentar aqui
 Este é meu git master, resolver o erro
